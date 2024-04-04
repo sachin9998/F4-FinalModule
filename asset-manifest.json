@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-FinalModule/static/css/main.1ea8ea6f.css",
+    "main.js": "/F4-FinalModule/static/js/main.fe82c7f3.js",
+    "index.html": "/F4-FinalModule/index.html",
+    "main.1ea8ea6f.css.map": "/F4-FinalModule/static/css/main.1ea8ea6f.css.map",
+    "main.fe82c7f3.js.map": "/F4-FinalModule/static/js/main.fe82c7f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea8ea6f.css",
+    "static/js/main.fe82c7f3.js"
+  ]
+}
