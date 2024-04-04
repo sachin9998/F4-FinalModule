@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    max-width: 70%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.page-heading{
+    text-align: center;
+    margin: 15px;
+}
+.movie-list-container{
+    width: 100%;
+    margin: 10px auto;
+    
+}
+table{
+    /* background-color: crimson; */
+    width: 100%;
+    text-align: left;
+    
+}
+th{
+    padding: 6px;
+    background-color: #ededed;
+    font-size: 1.5rem;
+    
+}
+
+td{
+    text-align: left;
+    padding: 6px;
+}
+tr:hover{
+    background-color:#ededed;
+}
+
+table,td,th{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+}
+
+.genre-filter-container{
+    background-color: #ededed;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+
+.btns-container{
+    /* background-color: pink; */
+    margin: 12px 0 5px 10px;
+    
+
+}
+.btns-container button{
+    padding: 10px 15px;
+    background-color: lightgray;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+    outline: none;
+}
+
+.btns-container button:hover{
+    background-color: rgb(166, 162, 162);
+}
